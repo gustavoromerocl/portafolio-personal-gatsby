@@ -56,3 +56,8 @@ Instalar plugin postcss:
 - npm install gatsby-plugin-postcss
 
 [Documentación oficial](https://tailwindcss.com/docs/guides/gatsby)
+
+plugin vs code para recomendaciones de tailwind: Tailwind CSS IntelliSense
+
+#### Componente del encabezado
+
