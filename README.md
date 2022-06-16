@@ -31,6 +31,8 @@ Gatsby es un nuevo enfoque para crear aplicaciones web, basado en tecnologías m
 
 ## Primeros pasos del proyecto
 
+#### Creación del proyecto
+
 Crear proyecto preconfigurado de gatsby:
 
 - gatsby new [ nombre proyecto ] https://github.com/gatsbyjs/gatsby-starter-hello-world
@@ -38,3 +40,19 @@ Crear proyecto preconfigurado de gatsby:
 Ejecutar proyecto localmente:
 
 - gatsby develop
+
+#### Integrar Tailwind
+
+Instalación:
+
+- npm install tailwindcss --save-dev
+
+Crear archivo de configuración:
+
+- npx run tailwind init
+
+Instalar plugin postcss:
+
+- npm install gatsby-plugin-postcss
+
+[Documentación oficial](https://tailwindcss.com/docs/guides/gatsby)
