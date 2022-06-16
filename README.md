@@ -27,6 +27,14 @@ Gatsby es un nuevo enfoque para crear aplicaciones web, basado en tecnologías m
 
 #### Instalación de Gatsby
 
-npm install -g gatsby-cli
+- npm install -g gatsby-cli
 
 ## Primeros pasos del proyecto
+
+Crear proyecto preconfigurado de gatsby:
+
+- gatsby new [ nombre proyecto ] https://github.com/gatsbyjs/gatsby-starter-hello-world
+
+Ejecutar proyecto localmente:
+
+- gatsby develop
