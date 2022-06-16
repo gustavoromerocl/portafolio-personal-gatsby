@@ -61,3 +61,6 @@ plugin vs code para recomendaciones de tailwind: Tailwind CSS IntelliSense
 
 #### Componente del encabezado
 
+#### Insertar imágenes
+
+[Proveedor de ilustraciones gratis](https://undraw.co/)
