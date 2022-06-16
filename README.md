@@ -1,7 +1,9 @@
 # portafolio-personal-gatsby
 curso de código facilito
 
-## Qué aprenderé en este curso [Curso Gatsby]
+## Introducción
+
+#### Qué aprenderé en este curso [Curso Gatsby]
 
 En este curso conocerás y aprenderás a usar Gatsby, un framework basado en React para la creación de aplicaciones web y sitios web.
 
@@ -12,7 +14,7 @@ A lo largo del curso usaremos Tailwind como framework CSS. Tailwind es un framew
 En general, construirás un sitio web moderno, veloz, con tecnologías actualizadas, a través del cual podrás mostrar tu formación profesional, portafolio y conocimiento. Crearás tu sitio web personal desde 0, con Gatsby y React.
 
 
-## Qué es Gatsby 
+#### Qué es Gatsby 
 
 Gatsby es un framework para crear aplicaciones y sitios web basado en React. Gatsby promueve lo que conocemos como el JAMStack, por lo que tiene las siguientes características:
 
@@ -23,3 +25,8 @@ Si quieres saber más sobre el JAMStack, te invito a que sigas el webinar gratui
 
 Gatsby es un nuevo enfoque para crear aplicaciones web, basado en tecnologías modernas como React y graphql, que te permiten construir sitios web que cargan y se ejecutan de manera muy rápida.
 
+#### Instalación de Gatsby
+
+npm install -g gatsby-cli
+
+## Primeros pasos del proyecto
