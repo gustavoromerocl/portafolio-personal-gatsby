@@ -64,3 +64,9 @@ plugin vs code para recomendaciones de tailwind: Tailwind CSS IntelliSense
 #### Insertar imágenes
 
 [Proveedor de ilustraciones gratis](https://undraw.co/)
+
+## Consultar un servicio web con ajax
+
+Consumir nustros repos de github en formato json:
+https://api.github.com/users/gustavoromerocl/repos
+

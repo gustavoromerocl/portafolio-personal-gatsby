@@ -1,6 +1,6 @@
 import React from 'react'
 import illustration from '../images/undraw_programming_re_kg9v.svg'
-import Form from './contactForm'
+import Form from './ContactForm'
 
 const Header = () => (
   <header className='bg-stone-200'>

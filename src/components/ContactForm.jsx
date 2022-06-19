@@ -1,6 +1,6 @@
 import React from 'react'
 
-const contactForm = () => (
+const ContactForm = () => (
   <form className='mt-16 text-center'>
     <label
       id='contact-content'
@@ -21,4 +21,4 @@ const contactForm = () => (
 )
 
 
-export default contactForm
+export default ContactForm
