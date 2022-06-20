@@ -67,6 +67,12 @@ plugin vs code para recomendaciones de tailwind: Tailwind CSS IntelliSense
 
 ## Consultar un servicio web con ajax
 
+#### Enlistar repositorios de gitHub 
+
 Consumir nustros repos de github en formato json:
 https://api.github.com/users/gustavoromerocl/repos
+
+#### Consultas a un servicio web con AJAX
+
+
 

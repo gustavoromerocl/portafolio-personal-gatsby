@@ -3,9 +3,7 @@ import React from 'react'
 const ContactForm = () => (
   <form className='mt-16 text-center'>
     <label
-      id='contact-content'
-      name="contact-content"
-      htmlFor=""
+      htmlFor="contact-content"
       className='block text-gray-700 text-sm font-bold mb-2'>
         Cuéntame de esa idea que quieres realizar
       </label>

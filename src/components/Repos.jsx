@@ -1,8 +1,17 @@
 import React from 'react'
-import repoData from '../data/repos'
+import { useState } from 'react'
+import { useEffect } from 'react'
+import fetchRepos from '../libs/fetchRepos'
+/* import repoData from '../data/repos' */
 import Repo from './Repo'
 
 const Repos = () => {
+  const [reposData, setReposData] = useState([])
+  
+  useEffect(() => {
+    fetchRepos()
+  },[])
+
   return (
     <div className='max-w-4xl mx-auto'>
       <section className='text-center'>
@@ -12,7 +21,7 @@ const Repos = () => {
 
       <ul className='repos-list'>
         {
-          repoData.map((repo) => {
+          reposData.map((repo) => {
             return <Repo data={repo} key={repo.id}/>
           })
         }
