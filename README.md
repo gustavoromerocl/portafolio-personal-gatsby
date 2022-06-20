@@ -79,3 +79,6 @@ https://api.github.com/users/gustavoromerocl/repos
 [session storage](https://developer.mozilla.org/es/docs/Web/API/Window/sessionStorage)
 [slice](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/slice)
 
+#### Mostrar conteo total de repositorios
+
+[truncate tailwind](https://tailwindcss.com/docs/text-overflow#truncate)
