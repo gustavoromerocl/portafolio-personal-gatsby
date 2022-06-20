@@ -74,5 +74,8 @@ https://api.github.com/users/gustavoromerocl/repos
 
 #### Consultas a un servicio web con AJAX
 
+#### Caching de peticiones AJAX en session storage
 
+[session storage](https://developer.mozilla.org/es/docs/Web/API/Window/sessionStorage)
+[slice](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/slice)
 
